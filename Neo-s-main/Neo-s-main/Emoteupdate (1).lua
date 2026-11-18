@@ -1989,7 +1989,6 @@ EMOTES = {
         AudioUrl  = "https://github.com/GUICLOUDS/Music/raw/refs/heads/main/Charli%20XCX_%20Unlock%20it%20x%20Better%20off%20Alone%20Remix%20%5BNo%20rapNo%20Jay%20Park%5D.mp3",
         AudioName = "UnlockIt",
     },
-    },
     {
         Name      = "Dance Alone",
         Short     = "Dance\nAlone",
